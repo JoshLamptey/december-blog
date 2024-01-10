@@ -9,12 +9,11 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <body className=''>
      <div>
       <Qoute/>
       <Carroussel/>
       </div>       
-    </body>
+  
 
     
   )
